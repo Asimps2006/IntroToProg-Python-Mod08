@@ -1,0 +1,12 @@
+Jeans,$45.50
+Chair,$25.90
+Phone,$55.60
+Coffee Pot,$65.99
+Sewing Machine,$79.60
+Book Case,$75.99
+Globe,$55.98
+Book,$4.99
+Dining Table,$765.99
+Leather Couch,$550.99
+Ninja Blender,$450.99
+Wood Stool,$67.99
